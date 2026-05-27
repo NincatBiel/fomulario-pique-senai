@@ -1,0 +1,25 @@
+/**/
+body{
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial;
+    font-size: 15;
+    flex-direction: column;
+}
+
+form{
+    background-color: white;
+    border-radius: 5px;
+    
+}
+
+h2{
+    color: rgb(0, 102, 255);
+    font-size: 25;
+}
+
+fieldset{
+    border-radius: 5px;
+}
