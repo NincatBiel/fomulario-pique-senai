@@ -57,12 +57,14 @@ fieldset{
     background-color: green;
     padding: 15px;
     margin: 10px;
+    cursor: pointer;
 }
 
 .limpar{
     background-color: rgb(161, 5, 5);
     padding: 15px;
     margin: 10px;
+    cursor: pointer;
 }
 
 .voltar{
